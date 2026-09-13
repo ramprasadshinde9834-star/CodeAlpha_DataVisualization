@@ -30,7 +30,6 @@ CodeAlpha_DataVisualization/
 ├── README.md                         # Project description
 └── requirements.txt                  # Required libraries
 ```
-(Chart images and the dashboard image are generated automatically when you run the script.)
 
 ## Questions Asked Before Visualizing
 1. Is total sales growing over time, and is there a seasonal pattern?
@@ -90,9 +89,6 @@ Visualization completed! 5 charts + 1 dashboard image saved in this folder.
 - Marketing teams identifying which region/category to focus campaigns on
 - Retail inventory planning based on seasonal demand patterns
 - Executive reporting — a single dashboard image summarizing performance for leadership
-
-## Author
-Ramprasad Shinde
 
 ## Internship
 This project was completed as part of the **CodeAlpha Internship Program**.

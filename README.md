@@ -31,13 +31,6 @@ CodeAlpha_DataVisualization/
 └── requirements.txt                  # Required libraries
 ```
 
-## Questions Asked Before Visualizing
-1. Is total sales growing over time, and is there a seasonal pattern?
-2. Which product category sells the most?
-3. Which region contributes the most to overall sales?
-4. Does higher sales always translate into higher profit?
-5. Which category-region combination performs best or worst?
-
 ## How to Run
 1. Clone this repository:
    ```
